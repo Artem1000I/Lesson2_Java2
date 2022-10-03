@@ -1,4 +1,4 @@
 package Lesson2;
 
-public class AlotOfExceptions {
+public class AlotOfExceptions {//ывывывыывывывывывывывы
 }
